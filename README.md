@@ -28,6 +28,7 @@ Solving 1–2 problems a day, focusing on understanding over volume.
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saimohanrajareddyjannareddy/leet-code-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0217-contains-duplicate](https://github.com/saimohanrajareddyjannareddy/leet-code-/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
 | ------- |
@@ -36,4 +37,12 @@ Solving 1–2 problems a day, focusing on understanding over volume.
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saimohanrajareddyjannareddy/leet-code-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/saimohanrajareddyjannareddy/leet-code-/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/saimohanrajareddyjannareddy/leet-code-/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
