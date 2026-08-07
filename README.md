@@ -24,3 +24,19 @@ these by pattern to build a solid foundation in data structures and algorithms.
 
 Each file is named by problem number and title (e.g. `0125-valid-palindrome.py`).
 Solving 1–2 problems a day, focusing on understanding over volume.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Hash Table
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/saimohanrajareddyjannareddy/leet-code-/tree/master/0003-longest-substring-without-repeating-characters) |
+## String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/saimohanrajareddyjannareddy/leet-code-/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/saimohanrajareddyjannareddy/leet-code-/tree/master/0003-longest-substring-without-repeating-characters) |
+<!---LeetCode Topics End-->
