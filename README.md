@@ -27,6 +27,7 @@ Solving 1–2 problems a day, focusing on understanding over volume.
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/saimohanrajareddyjannareddy/leet-code-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saimohanrajareddyjannareddy/leet-code-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/saimohanrajareddyjannareddy/leet-code-/tree/master/0217-contains-duplicate) |
 ## Two Pointers
@@ -51,4 +52,8 @@ Solving 1–2 problems a day, focusing on understanding over volume.
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/saimohanrajareddyjannareddy/leet-code-/tree/master/0242-valid-anagram) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/saimohanrajareddyjannareddy/leet-code-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
