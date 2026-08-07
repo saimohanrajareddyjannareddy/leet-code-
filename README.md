@@ -11,49 +11,16 @@ these by pattern to build a solid foundation in data structures and algorithms.
 | 217 | Contains Duplicate | Hash Set | Easy |
 | 242 | Valid Anagram | Hash Map / Counting | Easy |
 | 125 | Valid Palindrome | Two Pointers | Easy |
+| 167 | Two Sum II | Two Pointers | Medium |
+| 121 | Best Time to Buy and Sell Stock | Sliding Window | Easy |
 
 ## Patterns I'm learning
 
 - **Hash Map / Set** — "have I seen this before?" lookups in one pass
-- **Two Pointers** — walk two indices toward each other or in tandem
+- **Two Pointers** — walk two indices toward each other, or in tandem across a sorted array
+- **Sliding Window** — track a running value (min, max, best) across one pass
 
 ## Notes
 
 Each file is named by problem number and title (e.g. `0125-valid-palindrome.py`).
 Solving 1–2 problems a day, focusing on understanding over volume.
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0121-best-time-to-buy-and-sell-stock](https://github.com/saimohanrajareddyjannareddy/leet-code-/tree/master/0121-best-time-to-buy-and-sell-stock) |
-| [0167-two-sum-ii-input-array-is-sorted](https://github.com/saimohanrajareddyjannareddy/leet-code-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
-| [0217-contains-duplicate](https://github.com/saimohanrajareddyjannareddy/leet-code-/tree/master/0217-contains-duplicate) |
-## Two Pointers
-|  |
-| ------- |
-| [0167-two-sum-ii-input-array-is-sorted](https://github.com/saimohanrajareddyjannareddy/leet-code-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
-## Binary Search
-|  |
-| ------- |
-| [0167-two-sum-ii-input-array-is-sorted](https://github.com/saimohanrajareddyjannareddy/leet-code-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
-## Hash Table
-|  |
-| ------- |
-| [0217-contains-duplicate](https://github.com/saimohanrajareddyjannareddy/leet-code-/tree/master/0217-contains-duplicate) |
-| [0242-valid-anagram](https://github.com/saimohanrajareddyjannareddy/leet-code-/tree/master/0242-valid-anagram) |
-## Sorting
-|  |
-| ------- |
-| [0217-contains-duplicate](https://github.com/saimohanrajareddyjannareddy/leet-code-/tree/master/0217-contains-duplicate) |
-| [0242-valid-anagram](https://github.com/saimohanrajareddyjannareddy/leet-code-/tree/master/0242-valid-anagram) |
-## String
-|  |
-| ------- |
-| [0242-valid-anagram](https://github.com/saimohanrajareddyjannareddy/leet-code-/tree/master/0242-valid-anagram) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0121-best-time-to-buy-and-sell-stock](https://github.com/saimohanrajareddyjannareddy/leet-code-/tree/master/0121-best-time-to-buy-and-sell-stock) |
-<!---LeetCode Topics End-->
