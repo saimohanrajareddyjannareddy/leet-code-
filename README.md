@@ -31,11 +31,13 @@ Solving 1–2 problems a day, focusing on understanding over volume.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/saimohanrajareddyjannareddy/leet-code-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/saimohanrajareddyjannareddy/leet-code-/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/saimohanrajareddyjannareddy/leet-code-/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/saimohanrajareddyjannareddy/leet-code-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/saimohanrajareddyjannareddy/leet-code-/tree/master/0049-group-anagrams) |
 ## Sliding Window
 |  |
 | ------- |
@@ -43,6 +45,7 @@ Solving 1–2 problems a day, focusing on understanding over volume.
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/saimohanrajareddyjannareddy/leet-code-/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/saimohanrajareddyjannareddy/leet-code-/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
 |  |
@@ -51,6 +54,7 @@ Solving 1–2 problems a day, focusing on understanding over volume.
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/saimohanrajareddyjannareddy/leet-code-/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/saimohanrajareddyjannareddy/leet-code-/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
