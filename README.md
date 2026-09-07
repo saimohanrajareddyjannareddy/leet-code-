@@ -31,6 +31,7 @@ Solving 1–2 problems a day, focusing on understanding over volume.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/saimohanrajareddyjannareddy/leet-code-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0347-top-k-frequent-elements](https://github.com/saimohanrajareddyjannareddy/leet-code-/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
 | ------- |
@@ -39,4 +40,32 @@ Solving 1–2 problems a day, focusing on understanding over volume.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/saimohanrajareddyjannareddy/leet-code-/tree/master/0003-longest-substring-without-repeating-characters) |
+## Array
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/saimohanrajareddyjannareddy/leet-code-/tree/master/0347-top-k-frequent-elements) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/saimohanrajareddyjannareddy/leet-code-/tree/master/0347-top-k-frequent-elements) |
+## Sorting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/saimohanrajareddyjannareddy/leet-code-/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/saimohanrajareddyjannareddy/leet-code-/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/saimohanrajareddyjannareddy/leet-code-/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/saimohanrajareddyjannareddy/leet-code-/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/saimohanrajareddyjannareddy/leet-code-/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
